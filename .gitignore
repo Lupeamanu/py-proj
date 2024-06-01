@@ -1,0 +1,12 @@
+# Directories
+/Include
+/Lib
+/test
+
+# Cache files
+*.pyc
+
+*.bat
+*.ps1
+*.exe
+activate
